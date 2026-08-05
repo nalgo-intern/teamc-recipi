@@ -1,0 +1,136 @@
+name,en_label,is_seasoning,aliases
+玉ねぎ,onion,FALSE,玉葱;たまねぎ;オニオン
+じゃがいも,potato,FALSE,ジャガイモ;馬鈴薯;ポテト
+にんじん,carrot,FALSE,人参;ニンジン;キャロット
+キャベツ,cabbage,FALSE,きゃべつ;甘藍
+きゅうり,cucumber,FALSE,キュウリ;胡瓜
+トマト,tomato,FALSE,とまと
+ミニトマト,cherry tomato,FALSE,プチトマト
+ピーマン,green bell pepper,FALSE,ぴーまん
+なす,eggplant,FALSE,ナス;茄子;なすび
+ほうれん草,spinach,FALSE,ホウレンソウ;ほうれんそう
+小松菜,komatsuna greens,FALSE,こまつな;コマツナ
+大根,daikon radish,FALSE,ダイコン;だいこん
+白菜,napa cabbage,FALSE,はくさい;ハクサイ
+もやし,bean sprouts,FALSE,モヤシ;萌やし
+ねぎ,green onion,FALSE,長ねぎ;長ネギ;ネギ;青ねぎ;万能ねぎ
+ブロッコリー,broccoli,FALSE,ぶろっこりー
+かぼちゃ,pumpkin,FALSE,カボチャ;南瓜
+ごぼう,burdock root,FALSE,ゴボウ;牛蒡
+れんこん,lotus root,FALSE,レンコン;蓮根
+里芋,taro root,FALSE,さといも;サトイモ
+レタス,lettuce,FALSE,れたす
+ニラ,garlic chives,FALSE,にら;韮
+オクラ,okra,FALSE,おくら
+アスパラガス,asparagus,FALSE,アスパラ;あすぱら
+にんにく,garlic,FALSE,ニンニク;大蒜
+しょうが,ginger,FALSE,ショウガ;生姜
+青じそ,shiso leaf,FALSE,大葉;しそ;シソ
+ズッキーニ,zucchini,FALSE,ずっきーに
+セロリ,celery,FALSE,せろり
+さやいんげん,green beans,FALSE,いんげん;インゲン
+かぶ,turnip,FALSE,カブ;蕪
+春菊,chrysanthemum greens,FALSE,しゅんぎく;シュンギク
+豆苗,pea sprouts,FALSE,とうみょう;トウミョウ
+たけのこ,bamboo shoots,FALSE,タケノコ;筍
+しいたけ,shiitake mushroom,FALSE,シイタケ;椎茸
+しめじ,shimeji mushroom,FALSE,シメジ
+まいたけ,maitake mushroom,FALSE,マイタケ;舞茸
+エリンギ,eringi mushroom,FALSE,えりんぎ
+マッシュルーム,button mushroom,FALSE,まっしゅるーむ
+鶏もも肉,chicken thigh,FALSE,鶏肉;とりにく;もも肉;鳥もも肉
+鶏むね肉,chicken breast,FALSE,むね肉;胸肉;鳥むね肉;鶏胸肉
+鶏ひき肉,ground chicken,FALSE,鶏挽き肉;とりひき肉;鳥ひき肉
+鶏手羽元,chicken drumette,FALSE,手羽元;てばもと
+豚バラ肉,pork belly,FALSE,豚ばら肉;バラ肉;ばら肉
+豚こま肉,pork bits,FALSE,豚こま切れ肉;豚小間肉;豚こま
+豚ロース肉,pork loin,FALSE,ロース肉;豚ろーす肉
+豚ひき肉,ground pork,FALSE,豚挽き肉;ぶたひき肉
+牛薄切り肉,sliced beef,FALSE,牛肉;牛切り落とし肉;牛うす切り肉
+牛ひき肉,ground beef,FALSE,牛挽き肉
+合いびき肉,mixed ground meat,FALSE,合挽き肉;合い挽き肉;ひき肉
+ベーコン,bacon,FALSE,べーこん
+ウインナー,sausage,FALSE,ソーセージ;ウィンナー;ウインナーソーセージ
+ハム,sliced ham,FALSE,はむ
+鮭,salmon fillet,FALSE,サーモン;さけ;しゃけ;シャケ
+さば,mackerel,FALSE,サバ;鯖
+ぶり,yellowtail,FALSE,ブリ;鰤
+たら,cod fillet,FALSE,タラ;鱈
+あじ,horse mackerel,FALSE,アジ;鯵
+いわし,sardine,FALSE,イワシ;鰯
+まぐろ,tuna sashimi,FALSE,マグロ;鮪
+えび,shrimp,FALSE,エビ;海老
+いか,squid,FALSE,イカ;烏賊
+あさり,clams,FALSE,アサリ;浅蜊
+しじみ,freshwater clams,FALSE,シジミ;蜆
+ホタテ,scallop,FALSE,ほたて;帆立
+ちくわ,chikuwa fish cake,FALSE,チクワ;竹輪
+ツナ缶,canned tuna,FALSE,ツナ;シーチキン;ツナ缺
+しらす,whitebait,FALSE,シラス;ちりめんじゃこ;じゃこ
+かに風味かまぼこ,imitation crab stick,FALSE,カニカマ;かにかま
+かまぼこ,kamaboko fish cake,FALSE,蒲鉾
+卵,egg,FALSE,たまご;タマゴ;鶏卵;玉子
+豆腐,tofu,FALSE,とうふ;木綿豆腐;絹豆腐
+厚揚げ,thick fried tofu,FALSE,あつあげ
+油揚げ,fried tofu pouch,FALSE,あぶらあげ;あげ
+高野豆腐,dried tofu,FALSE,こうやどうふ
+牛乳,milk,FALSE,ぎゅうにゅう;ミルク
+ピザ用チーズ,shredded cheese,FALSE,とろけるチーズ;チーズ
+生クリーム,heavy cream,FALSE,なまくりーむ
+わかめ,wakame seaweed,FALSE,ワカメ;若布
+ひじき,hijiki seaweed,FALSE,ヒジキ
+昆布,kombu kelp,FALSE,こんぶ
+かつお節,bonito flakes,FALSE,鰹節;おかか;かつおぶし
+切り干し大根,dried daikon strips,FALSE,きりぼしだいこん
+春雨,glass noodles,FALSE,はるさめ
+焼き海苔,dried seaweed sheet,FALSE,海苔;のり;ノリ
+こんにゃく,konjac block,FALSE,コンニャク;蒟蒻
+しらたき,konjac noodles,FALSE,糸こんにゃく;シラタキ
+キムチ,kimchi,FALSE,きむち
+カレールー,curry roux,FALSE,カレールウ;ルー
+ホールトマト缶,canned tomatoes,FALSE,トマト缶;カットトマト缶
+コーン缶,canned corn,FALSE,コーン缶詰
+餃子の皮,gyoza wrappers,FALSE,ぎょうざの皮
+大豆水煮,boiled soybeans,FALSE,水煮大豆;蒸し大豆
+マカロニ,macaroni,FALSE,まかろに
+ご飯,cooked rice,FALSE,ごはん;白米;ライス
+米,uncooked rice,FALSE,こめ;お米
+うどん,udon noodles,FALSE,ウドン
+そば,soba noodles,FALSE,蕎麦;ソバ
+そうめん,somen noodles,FALSE,素麺;ソーメン
+中華麺,ramen noodles,FALSE,ラーメン;中華めん;蒸し麺
+パスタ,spaghetti pasta,FALSE,スパゲッティ;スパゲティ
+醤油,soy sauce,TRUE,しょうゆ;しょう油;正油
+味噌,miso paste,TRUE,みそ;ミソ
+砂糖,sugar,TRUE,さとう;上白糖
+塩,salt,TRUE,しお
+こしょう,black pepper,TRUE,胡椒;ブラックペッパー;コショウ
+酒,cooking sake,TRUE,料理酒;日本酒;清酒
+みりん,mirin,TRUE,味醂;ミリン
+酢,rice vinegar,TRUE,お酢;す
+サラダ油,vegetable oil,TRUE,油;食用油;なたね油
+ごま油,sesame oil,TRUE,胡麻油;ゴマ油
+オリーブオイル,olive oil,TRUE,オリーブ油
+バター,butter,TRUE,ばたー
+マヨネーズ,mayonnaise,TRUE,マヨ;まよねーず
+ケチャップ,tomato ketchup,TRUE,トマトケチャップ
+中濃ソース,tonkatsu sauce,TRUE,ソース;ウスターソース
+めんつゆ,noodle soup base,TRUE,つゆ;そばつゆ
+顆粒だし,dashi granules,TRUE,だしの素;和風だし;ほんだし
+顆粒コンソメ,bouillon granules,TRUE,コンソメ;固形コンソメ
+鶏がらスープの素,chicken bouillon,TRUE,鶏ガラスープの素;ガラスープ;中華だし
+片栗粉,potato starch,TRUE,かたくりこ
+小麦粉,wheat flour,TRUE,薄力粉;こむぎこ
+パン粉,breadcrumbs,TRUE,ぱんこ
+カレー粉,curry powder,TRUE,かれー粉
+豆板醤,doubanjiang chili paste,TRUE,トウバンジャン
+コチュジャン,gochujang paste,TRUE,こちゅじゃん
+オイスターソース,oyster sauce,TRUE,おいすたーそーす
+ポン酢,ponzu sauce,TRUE,ぽん酢;ポンズ
+白ごま,sesame seeds,TRUE,ごま;胡麻;いりごま
+すりごま,ground sesame,TRUE,擦りごま
+はちみつ,honey,TRUE,蜂蜜;ハチミツ
+七味唐辛子,shichimi pepper,TRUE,七味;しちみ
+一味唐辛子,chili powder,TRUE,一味;いちみ;赤唐辛子
+わさび,wasabi paste,TRUE,ワサビ;山葵
+粉チーズ,grated parmesan,TRUE,パルメザンチーズ
